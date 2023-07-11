@@ -11,5 +11,5 @@ The main objective is to encourage you to create your own gadgets, awakening you
 * LCD Display 2004 20x4 with Backlight, I2C Module Soldered (Makes your life easier)
 * 3xPush-Buttons
 * 7cm x 5cm perfboard
-* 3D BOX [Here](https://www.example.com "3d printed box")
+* 3D BOX [Here]([https://www.example.com](https://github.com/OjayBitcoiner/BTCShowPrice/tree/main/3D%20FILES)https://github.com/OjayBitcoiner/BTCShowPrice/tree/main/3D%20FILES "3d printed box")
 
