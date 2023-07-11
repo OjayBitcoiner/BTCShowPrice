@@ -33,6 +33,23 @@ The project includes a menu where you can change some settings such as choosing 
 ![esquematico](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/c8e45dce-5725-4332-8e26-a302b2c851b2)
 **Important Note**
 The 10µF capacitor connected to the "enable" pin serves to assist in the upload process of the .ino code in the Arduino IDE.
+
+### Assembling the Button Board
+
+In order to create a navigation and configuration menu, I have devised a small board using a perforated PCB with dimensions of 36mm x 12mm. This board conveniently accommodates three push buttons: an "Up" button, an "Enter" button, and a "Down" button for menu navigation.
+
+![01_pcb_buttons](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/da7e434a-961f-4888-89f7-2f7fff7f5966)
+
+![04_buttons_details](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/be6f967d-e5f4-4fb2-a923-75fdb610d67e)
+
+![02_buttons_soldered](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/379c2077-5679-495e-88bb-7910ec4b7ef7)
+
+![03_buttons_close](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/c2bf7786-0c23-40e8-a056-5af18f8ffe1f)
+
+**Here's how it looks after assembly using the 3D-printed pads:**
+
+![10_buttons_pad_3d_printed](https://github.com/OjayBitcoiner/BTCShowPrice/assets/139197132/9fce7a33-1675-4606-b7cb-42197216b5b8)
+
   
 ### Uploading Code Using Arduino IDE
 The idea is to provide a greater immersion in your maker experience, so to upload the project code, you will need to follow these steps:
